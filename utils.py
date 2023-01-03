@@ -4,7 +4,7 @@ import os
 
 def download_file(local_filename, url):
     result = True
-    print('Downloading the file:',local_filename,', please until it finishes.')
+    print('Downloading the file:',local_filename,', please waint until it finishes.')
     try:
         with requests.get(url, stream=True) as r:
             with open(local_filename, 'wb') as f:

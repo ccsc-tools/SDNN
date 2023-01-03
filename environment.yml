@@ -1,0 +1,11 @@
+name: binder_env
+channels:
+- defaults
+dependencies:
+- python=3.6.8
+- pip
+- pip:
+  - numpy
+  - keras==2.2.4
+  - astropy
+  - tensorflow==1.11.0
