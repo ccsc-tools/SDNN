@@ -2,7 +2,6 @@ name: binder_env
 channels:
 - defaults
 dependencies:
-- pandas=1.2.4
 - python=3.6.8
 - pip
 - pip:
