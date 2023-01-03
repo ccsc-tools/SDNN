@@ -31,6 +31,7 @@ def download_fits():
     if os.path.exists(filename):
         print('File:',filename,'already exists, no need to download it')
     else:
+        os.makedirs('inputs')
         if download_file(filename,url):
             print('Finished dowloading the file.')
 
