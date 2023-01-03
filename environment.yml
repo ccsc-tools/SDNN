@@ -7,6 +7,6 @@ dependencies:
 - pip
 - pip:
   - numpy==1.19.5
-  - sklearn==2.2.4
+  - keras==2.2.4
   - astropy
   - tensorflow==1.11.0
