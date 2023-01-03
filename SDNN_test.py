@@ -1,10 +1,3 @@
-from astropy.io import fits
-import os
-import time
-import numpy as np
-from SDNN import read_data
-from SDNN import inverse
-from SDNN import save_results
 from utils import *
 
 # Note that the SDDN has large model and fits files that can not
@@ -12,6 +5,14 @@ from utils import *
 download_model()
 download_fits()
 
+
+from astropy.io import fits
+import os
+import time
+import numpy as np
+from SDNN import read_data
+from SDNN import inverse
+from SDNN import save_results
 
 # Import the load_model() function from SDNN module.
 
