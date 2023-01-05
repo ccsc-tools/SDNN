@@ -17,12 +17,6 @@ Obtaining high-quality magnetic and velocity fields through Stokes inversion is 
 This notebook is Binder enabled and can be run on [mybinder.org](https://mybinder.org/) by using the link below.
 
 
-### run_SDNN.ipynb (Jupyter Notebook for SDNN)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccsc-tools/SDNN/HEAD?labpath=run_SDNN.ipynb)
-
-Please note that starting Binder might take some time to create and start the image.
-
-For the latest updates of SDNN refer to [https://github.com/deepsuncode/SDNN](https://github.com/deepsuncode/SDNN)
 
 
 
