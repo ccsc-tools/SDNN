@@ -1,5 +1,5 @@
 #   Stokes Inversion for GST/NIRIS Using Stacked Deep Neural Networks
-[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons//sdnn.svg)](https://zenodo.org/record/7496008#.Y6-rbHbMJD8)
+[![DOI](https://github.com/ccsc-tools/zenodo_icons/blob/main/icons//sdnn.svg)](https://zenodo.org/record/7516732#.Y7xMkxXMLrk)
 
 ## Authors
 Haodi Jiang, Qin Li, Yan Xu, Wynne Hsu, Kwangsu Ahn, Wenda Cao, Jason T. L. Wang, Haimin Wang 
